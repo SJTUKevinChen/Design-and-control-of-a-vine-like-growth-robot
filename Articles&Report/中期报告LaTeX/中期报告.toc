@@ -1,0 +1,15 @@
+\contentsline {section}{\numberline {1}课题背景与研究现状}{1}{section.1}%
+\contentsline {section}{\numberline {2}工作机理与实物设计}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}整机工作机理}{2}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}生长长度计算}{2}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}实物设计模型}{4}{subsection.2.3}%
+\contentsline {section}{\numberline {3}控制与算法设计}{6}{section.3}%
+\contentsline {subsection}{\numberline {3.1}电机检测与控制}{7}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}编码器调试与测量}{8}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}电机PID控制算法}{9}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}压力传感器调试与测量}{10}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}压力传感器标定}{10}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}原始数据处理(Kalman滤波)}{11}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}信息传输与远程控制}{13}{subsection.3.3}%
+\contentsline {section}{\numberline {4}后续实验方向和要点}{13}{section.4}%
+\contentsline {section}{\numberline {5}已取得的成果}{14}{section.5}%

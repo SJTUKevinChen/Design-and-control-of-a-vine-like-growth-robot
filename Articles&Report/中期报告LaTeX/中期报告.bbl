@@ -1,0 +1,108 @@
+\begin{thebibliography}{10}
+
+\bibitem{armaniniSoftRobotsModeling2023}
+Costanza Armanini, Fr{\'e}d{\'e}ric Boyer, Anup~Teejo Mathew, Christian Duriez, and Federico Renda.
+\newblock Soft {{Robots Modeling}}: {{A Structured Overview}}.
+\newblock {\em IEEE Transactions on Robotics}, 39(3):1728--1748, June 2023.
+
+\bibitem{blumenscheinGeometricSolutionsGeneral2022}
+Laura~H. Blumenschein, Margaret Koehler, Nathan~S. Usevitch, Elliot~Wright Hawkes, D.~Caleb Rucker, and Allison~M. Okamura.
+\newblock Geometric {{Solutions}} for {{General Actuator Routing}} on {{Inflated-Beam Soft Growing Robots}}.
+\newblock {\em IEEE Transactions on Robotics}, 38(3):1820--1840, June 2022.
+
+\bibitem{coadRetractionSoftGrowing2020}
+Margaret~M. Coad, Rachel~P. Thomasson, Laura~H. Blumenschein, Nathan~S. Usevitch, Elliot~W. Hawkes, and Allison~M. Okamura.
+\newblock Retraction of {{Soft Growing Robots Without Buckling}}.
+\newblock {\em IEEE Robotics and Automation Letters}, 5(2):2115--2122, April 2020.
+
+\bibitem{depascali3DprintedBiomimeticArtificial2022}
+Corrado De~Pascali, Giovanna~Adele Naselli, Stefano Palagi, Rob B.~N. Scharff, and Barbara Mazzolai.
+\newblock {{3D-printed}} biomimetic artificial muscles using soft actuators that contract and elongate.
+\newblock {\em Science Robotics}, 7(68):eabn4155, July 2022.
+
+\bibitem{depascali3DprintedBiomimeticArtificial2022a}
+Corrado De~Pascali, Giovanna~Adele Naselli, Stefano Palagi, Rob B.~N. Scharff, and Barbara Mazzolai.
+\newblock {{3D-printed}} biomimetic artificial muscles using soft actuators that contract and elongate.
+\newblock {\em Science Robotics}, 7(68):eabn4155, July 2022.
+
+\bibitem{ekenContinuousSkinEversion2023}
+Korkut Eken, Nick Gravish, and Michael~T. Tolley.
+\newblock Continuous {{Skin Eversion Enables}} an {{Untethered Soft Robot}} to {{Burrow}} in {{Granular Media}}.
+\newblock In {\em 2023 {{IEEE International Conference}} on {{Soft Robotics}} ({{RoboSoft}})}, pages 1--6, {Singapore, Singapore}, April 2023. {IEEE}.
+
+\bibitem{exarchosTaskSpecificDesignOptimization2022}
+Ioannis Exarchos, Karen Wang, Brian~H. Do, Fabio Stroppa, Margaret~M. Coad, Allison~M. Okamura, and C.~Karen Liu.
+\newblock Task-{{Specific Design Optimization}} and {{Fabrication}} for {{Inflated-Beam Soft Robots}} with {{Growable Discrete Joints}}.
+\newblock In {\em 2022 {{International Conference}} on {{Robotics}} and {{Automation}} ({{ICRA}})}, pages 7145--7151, {Philadelphia, PA, USA}, May 2022. {IEEE}.
+
+\bibitem{greerRobustNavigationSoft2020}
+Joseph~D Greer, Laura~H Blumenschein, Ron Alterovitz, Elliot~W Hawkes, and Allison~M Okamura.
+\newblock Robust navigation of a soft growing robot by exploiting contact with the environment.
+\newblock {\em The International Journal of Robotics Research}, 39(14):1724--1738, December 2020.
+
+\bibitem{greerSeriesPneumaticArtificial2017}
+Joseph~D. Greer, Tania~K. Morimoto, Allison~M. Okamura, and Elliot~W. Hawkes.
+\newblock Series pneumatic artificial muscles ({{sPAMs}}) and application to a soft continuum robot.
+\newblock In {\em 2017 {{IEEE International Conference}} on {{Robotics}} and {{Automation}} ({{ICRA}})}, pages 5503--5510, {Singapore, Singapore}, May 2017. {IEEE}.
+
+\bibitem{greerSoftSteerableContinuum2019}
+Joseph~D. Greer, Tania~K. Morimoto, Allison~M. Okamura, and Elliot~W. Hawkes.
+\newblock A {{Soft}}, {{Steerable Continuum Robot That Grows}} via {{Tip Extension}}.
+\newblock {\em Soft Robotics}, 6(1):95--108, February 2019.
+
+\bibitem{hawkesSoftRobotThat2017a}
+Elliot~W. Hawkes, Laura~H. Blumenschein, Joseph~D. Greer, and Allison~M. Okamura.
+\newblock A soft robot that navigates its environment through growth.
+\newblock {\em Science Robotics}, 2(8):eaan3028, July 2017.
+
+\bibitem{hawkesSoftRobotThat2017}
+Elliot~W. Hawkes, Laura~H. Blumenschein, Joseph~D. Greer, and Allison~M. Okamura.
+\newblock A soft robot that navigates its environment through growth.
+\newblock {\em Science Robotics}, 2(8):eaan3028, July 2017.
+
+\bibitem{kublerMultiSegmentSoftGrowing2023}
+Alexander~M. K{\"u}bler, Sebasti{\'a}n~Urdaneta Rivera, Frances~B. Raphael, Julian F{\"o}rster, Roland Siegwart, and Allison~M. Okamura.
+\newblock A {{Multi-Segment}}, {{Soft Growing Robot}} with {{Selective Steering}}.
+\newblock In {\em 2023 {{IEEE International Conference}} on {{Soft Robotics}} ({{RoboSoft}})}, pages 1--7, {Singapore, Singapore}, April 2023. {IEEE}.
+
+\bibitem{liBioinspiredSoftRobot2021}
+Pengchun Li, Yongchang Zhang, Guangyu Zhang, Dekai Zhou, and Longqiu Li.
+\newblock A {{Bioinspired Soft Robot Combining}} the {{Growth Adaptability}} of {{Vine Plants}} with a {{Coordinated Control System}}.
+\newblock {\em Research}, 2021:2021/9843859, January 2021.
+
+\bibitem{matebesePathPlanningLeapfrog2016}
+Belinda Matebese, Daniel Withey, and Mapundi~K. Banda.
+\newblock Path planning with the {{Leapfrog}} method in the presence of obstacles.
+\newblock In {\em 2016 {{IEEE International Conference}} on {{Robotics}} and {{Biomimetics}} ({{ROBIO}})}, pages 613--618, {Qingdao, China}, December 2016. {IEEE}.
+
+\bibitem{parkDeployableSoftOrigami2023}
+MinJo Park, Woongbae Kim, Sung-Yol Yu, Jungmin Cho, Wonkyeong Kang, Junghwan Byun, Useok Jeong, and Kyu-Jin Cho.
+\newblock Deployable {{Soft Origami Modular Robotic Arm With Variable Stiffness Using Facet Buckling}}.
+\newblock {\em IEEE Robotics and Automation Letters}, 8(2):864--871, February 2023.
+
+\bibitem{perezSelfPropelledSoftEverting2022}
+Nelson G.~Badillo Perez and Margaret~M. Coad.
+\newblock Self-{{Propelled Soft Everting Toroidal Robot}} for {{Navigation}} and {{Climbing}} in {{Confined Spaces}}.
+\newblock In {\em 2022 {{IEEE}}/{{RSJ International Conference}} on {{Intelligent Robots}} and {{Systems}} ({{IROS}})}, pages 5409--5415, {Kyoto, Japan}, October 2022. {IEEE}.
+
+\bibitem{quevedo-morenoDesignModelingFabricShelled2023}
+Diego {Quevedo-Moreno} and Ellen~T. Roche.
+\newblock Design and {{Modeling}} of {{Fabric-Shelled Pneumatic Bending Soft Actuators}}.
+\newblock {\em IEEE Robotics and Automation Letters}, 8(6):3110--3117, June 2023.
+
+\bibitem{rozaidiHISSbotSidewindingSoft2023}
+Farhan Rozaidi, Emma Waters, Olivia Dawes, Jennifer Yang, Joseph~R. Davidson, and Ross~L. Hatton.
+\newblock {{HISSbot}}: {{Sidewinding}} with a {{Soft Snake Robot}}.
+\newblock In {\em 2023 {{IEEE International Conference}} on {{Soft Robotics}} ({{RoboSoft}})}, pages 1--7, {Singapore, Singapore}, April 2023. {IEEE}.
+
+\bibitem{songDeploymentElectrocorticographySystem2023}
+Sukho Song, Florian Fallegger, Alix Trouillet, Kyungjin Kim, and St{\'e}phanie~P. Lacour.
+\newblock Deployment of an electrocorticography system with a soft robotic actuator.
+\newblock {\em Science Robotics}, 8(78):eadd1002, May 2023.
+
+\bibitem{wuPhysicsBasedModelSteerable2023}
+Zicong Wu, Mikel De~Iturrate Reyzabal, S.M.Hadi Sadati, Hongbin Liu, Sebastien Ourselin, Daniel Leff, Robert~K. Katzschmann, Kawal Rhode, and Christos Bergeles.
+\newblock Towards a {{Physics-Based Model}} for {{Steerable Eversion Growing Robots}}.
+\newblock {\em IEEE Robotics and Automation Letters}, 8(2):1005--1012, February 2023.
+
+\end{thebibliography}

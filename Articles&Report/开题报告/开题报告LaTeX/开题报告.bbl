@@ -1,0 +1,18 @@
+\begin{thebibliography}{1}
+
+\bibitem{coadRetractionSoftGrowing2020}
+Margaret~M. Coad, Rachel~P. Thomasson, Laura~H. Blumenschein, Nathan~S. Usevitch, Elliot~W. Hawkes, and Allison~M. Okamura.
+\newblock Retraction of {{Soft Growing Robots Without Buckling}}.
+\newblock {\em IEEE Robotics and Automation Letters}, 5(2):2115--2122, April 2020.
+
+\bibitem{hawkesSoftRobotThat2017a}
+Elliot~W. Hawkes, Laura~H. Blumenschein, Joseph~D. Greer, and Allison~M. Okamura.
+\newblock A soft robot that navigates its environment through growth.
+\newblock {\em Science Robotics}, 2(8):eaan3028, July 2017.
+
+\bibitem{kublerMultiSegmentSoftGrowing2023}
+Alexander~M. K{\"u}bler, Sebasti{\'a}n~Urdaneta Rivera, Frances~B. Raphael, Julian F{\"o}rster, Roland Siegwart, and Allison~M. Okamura.
+\newblock A {{Multi-Segment}}, {{Soft Growing Robot}} with {{Selective Steering}}.
+\newblock In {\em 2023 {{IEEE International Conference}} on {{Soft Robotics}} ({{RoboSoft}})}, pages 1--7, {Singapore, Singapore}, April 2023. {IEEE}.
+
+\end{thebibliography}
